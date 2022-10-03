@@ -1,2 +1,0 @@
-# Disco
-Disco css exercise
